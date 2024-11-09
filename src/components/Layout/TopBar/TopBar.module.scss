@@ -1,0 +1,11 @@
+.topBar {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  z-index: 5;
+  background: rgb(233,222,218);
+  background: linear-gradient(90deg, rgba(233,222,218,1) 0%, rgba(233,222,218,1) 54%, rgba(196,177,189,1) 56%, rgba(196,177,189,1) 100%);
+  img {
+    max-width: 390px;
+  }
+}

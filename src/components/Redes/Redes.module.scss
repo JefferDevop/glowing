@@ -1,0 +1,21 @@
+.redes {
+  
+  top: 0;
+  position: sticky;
+  z-index: 5;
+
+  
+
+  background: rgb(255,255,255);
+  background: linear-gradient(28deg, rgba(255,255,255,1) 0%, rgba(126,113,121,1) 25%, rgba(196,177,189,1) 51%, rgba(126,118,123,1) 86%, rgba(255,255,255,1) 100%);
+
+  -webkit-box-shadow: 0px 14px 10px -3px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 0px 14px 10px -3px rgba(0, 0, 0, 0.22);
+  box-shadow: 0px 14px 10px -3px rgba(0, 0, 0, 0.22);
+
+ 
+  p {
+    color: #464538;
+    font-weight: 700;
+  }
+}
