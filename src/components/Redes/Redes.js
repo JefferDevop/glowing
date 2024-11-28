@@ -31,8 +31,11 @@ export function Redes() {
     <>
       <div className={styles.redes}>
     
-        <p>Dirección: San Andresito Sur piso 1 local 1-105</p>
-        <p>Whatsapp: 310 7640196</p>
+        <p>Centro comercial punto 14 - Local B1-30 Primer piso</p>
+        <p>San Andresito Sur piso 1 local 1-105</p>
+
+        <p>Ubicados en Cali-Colombia</p>
+          <p>Contacto: 3107640196 - 3136900832 - 3203269697</p>
 
         <Link href="https://distribuidoraglowing.bio.link/">
         <p>Redes: distribuidoraglowing.bio.link</p>
