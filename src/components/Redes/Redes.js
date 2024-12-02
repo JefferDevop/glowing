@@ -29,13 +29,12 @@ export function Redes() {
 
   return (
     <>
-      <div className={styles.redes}>
-    
+      <div className={styles.redes}>    
         <p>Centro comercial punto 14 - Local B1-30 Primer piso</p>
         <p>San Andresito Sur piso 1 local 1-105</p>
 
         <p>Ubicados en Cali-Colombia</p>
-          <p>Contacto: 3107640196 - 3136900832 - 3203269697</p>
+        <p>Contacto: 3107640196 - 3136900832 - 3203269697</p>
 
         <Link href="https://distribuidoraglowing.bio.link/">
         <p>Redes: distribuidoraglowing.bio.link</p>

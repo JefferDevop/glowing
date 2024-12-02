@@ -51,8 +51,8 @@ export function Search(props) {
                   <CardTitle className={styles.title}>
                     <p>{product.name_extend}</p>
                    
-                    {product.price1 !== null && (
-                      <h6>$ {format(product.price1)}</h6>
+                    {product.price2 !== null && (
+                      <h6>$ {format(product.price2)}</h6>
                     )}
 
                   </CardTitle>
