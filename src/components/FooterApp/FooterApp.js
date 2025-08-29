@@ -70,7 +70,7 @@ export function FooterApp() {
 
         <BtnLink
           link={
-            "https://glowing.catalogointeractivo.com.co/admin-dashboard/"
+            "https://glowing.conexion.bar/admin-dashboard/"
           }
           title={"ADMI"}
           logo={<CiUser size={20} />}
